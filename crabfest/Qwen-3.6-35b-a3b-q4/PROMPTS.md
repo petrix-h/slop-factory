@@ -1,0 +1,3 @@
+Help me with the visual design of a website that will demonstrate the classical Swedish-picking fin tradition of crab fest in late August. And it should include things like what kind of crabs you have, what kind of drinks you have, what kind of songs you have, and so on. Do a little bit of research so that you can actually make sure that you're accurate and then give me a design suggestion on what the website could look like for the actual event.
+
+The page seems broken also make sure it looks like 2026! I want animations, a hero section, cool modern maybe even futuristic look! Make it soemthing we wont forget until next years party!
