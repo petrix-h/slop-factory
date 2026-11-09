@@ -1,0 +1,1 @@
+Design and create a very creative, elaborate, and detailed voxel art scene of a haunted house in a Halloween style garden with trees and autumn vibes. Make the scene impressive and varied and use gloomy colors. Use whatever libraries to get this done but make sure its all presented in a single HTML file.
